@@ -1,6 +1,6 @@
 # BRINGG HOME ASSIGNMENT
 
-## Execute Instructions
+## How To Apply New Calculation?
 
 ### Unit Test
 * Open the project in your IDE
@@ -9,7 +9,7 @@
 ### Application Server
 * Run the project as a service
 * Send GET HTTP request 
-* For example, if you want to calculate the distance matrix for (1,2), (2,-2), (2, -1) with 3 threads.
+* For example, in order to calculate the distance matrix for (1,2), (2,-2), (2, -1) with 3 threads.
   You should send the following 'Get Request': http://localhost:8501/calculate?points=1,2,2,-2,2,-1&threads=3  
 
 
